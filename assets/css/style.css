@@ -1,0 +1,54 @@
+.headings {
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    color: #4aaaa5;
+}
+
+#name {
+    background-color: #4aaaa5;
+    color: white;
+    display: inline;
+    margin-left: 120px;
+}
+
+
+
+body {
+    background-image: url("../images/stripes-light.png");
+}
+
+#profile {
+    height: 290px;
+    width: 205px;
+    display: inline;
+}
+
+#aboutme {
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    margin-right: 220px;
+    margin-left: 200px;
+    /*float: right;*/
+    /*display: inline;*/
+    color: #777777;
+
+}
+
+nav {
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    float: right;
+    word-spacing: 50px;
+    padding-top: 20px;
+    padding-right: 20px;
+    color: #777777;
+}
+
+.container {
+    margin: 50px;
+    background-color: #ffffff;
+}
+
+footer {
+    background-color: #666666;
+    margin-top: 110px;
+    text-align: center;
+}
+
