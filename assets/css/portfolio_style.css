@@ -13,7 +13,8 @@
 
 
 body {
-    background-image: url("../images/stripes-light.png")
+    background-image: url("../images/stripes-light.png");
+    height: 960px;
 }
 
 nav {
@@ -28,8 +29,8 @@ nav {
 .container {
     margin: 50px;
     background-color: #ffffff;
-    width: 23%;
-    margin-left: 500px
+    width: 306px;
+    margin-left: 570px;
 }
 
 
@@ -57,11 +58,19 @@ nav {
 
 footer {
     background-color: #666666;
-    margin-top: 190px;
+    margin-top: 1000px;
     text-align: center;
+    border-top: 6px solid #4aaaa5;
 }
 
 .portfolio {
     text-align: center;
     color: #4aaaa5;
+}
+
+#seperator {
+    height: 6px;
+    background-color: #666666;
+    margin-top: 20px;
+    opacity: .2;
 }

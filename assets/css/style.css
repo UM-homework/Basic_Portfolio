@@ -48,7 +48,14 @@ nav {
 
 footer {
     background-color: #666666;
-    margin-top: 110px;
+    margin-top: 1000px;
     text-align: center;
+    border-top: 6px solid #4aaaa5;
 }
 
+#seperator {
+    height: 6px;
+    background-color: #666666;
+    margin-top: 20px;
+    opacity: .2;
+}
